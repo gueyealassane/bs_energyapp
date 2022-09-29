@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304450624288",
+    "project_id": "bsenergy-93bf1",
+    "storage_bucket": "bsenergy-93bf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304450624288:android:d84f18d1195b0df3b55545",
+        "android_client_info": {
+          "package_name": "com.example.bsenergy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304450624288-5sgf35lch68mue08hlg37a8scijk751k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOpQxt9eWvU3AJT7M6KCkIrdWgE6-rGoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304450624288-5sgf35lch68mue08hlg37a8scijk751k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
